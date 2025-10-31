@@ -1,6 +1,6 @@
 # blog-comments
 
-![blog-comments](https://repository-images.githubusercontent.com/1086124044/de680cc6-f758-407f-8d45-445791420a0d)
+![blog-comments](https://repository-images.githubusercontent.com/1086124044/046dd050-efb6-4841-af9b-8f177d67a095)
 
 Repository for storing comments and discussions linked to [blog.airat.top](https://blog.airat.top).
 
